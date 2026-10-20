@@ -1,0 +1,59 @@
+
+1. Add guest  2. Remove guest  3. Add staff  4. Show all  0. Exit
+Choice: CCCD (12 digits): Full name: Age: Room type (VIP1/VIP2/VIP3): Rental days: Rental cost: 900000 VND
+
+1. Add guest  2. Remove guest  3. Add staff  4. Show all  0. Exit
+Choice: CCCD (12 digits): Full name: Age: Room type (VIP1/VIP2/VIP3): Rental days: Rental cost: 1000000 VND
+
+1. Add guest  2. Remove guest  3. Add staff  4. Show all  0. Exit
+Choice: License ID: Employee ID: Full name: Age: Staff added.
+
+1. Add guest  2. Remove guest  3. Add staff  4. Show all  0. Exit
+Choice: Staff:
+Employee ID: E01
+License ID: L01
+Name: Staff One
+Age: 35
+
+Guests:
+CCCD: 111111111111
+Name: Guest One
+Age: 25
+Room type: VIP1
+Rental days: 1
+Rental cost: 900000 VND
+
+CCCD: 222222222222
+Name: Guest Two
+Age: 40
+Room type: VIP3
+Rental days: 2
+Rental cost: 1000000 VND
+
+Total revenue: 1900000 VND
+
+1. Add guest  2. Remove guest  3. Add staff  4. Show all  0. Exit
+Choice: CCCD of guest to remove: Guest removed.
+
+1. Add guest  2. Remove guest  3. Add staff  4. Show all  0. Exit
+Choice: CCCD of guest to remove: Guest not found.
+
+1. Add guest  2. Remove guest  3. Add staff  4. Show all  0. Exit
+Choice: Staff:
+Employee ID: E01
+License ID: L01
+Name: Staff One
+Age: 35
+
+Guests:
+CCCD: 222222222222
+Name: Guest Two
+Age: 40
+Room type: VIP3
+Rental days: 2
+Rental cost: 1000000 VND
+
+Total revenue: 1000000 VND
+
+1. Add guest  2. Remove guest  3. Add staff  4. Show all  0. Exit
+Choice: 

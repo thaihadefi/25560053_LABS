@@ -1,0 +1,16 @@
+Enter number of singers: 
+Singer 1
+Type (1-Regular, 2-Famous): Full name: Years of experience: Albums sold: Performances: 
+Singer 2
+Type (1-Regular, 2-Famous): Full name: Years of experience: Albums sold: Performances: Game shows attended: 
+Salaries:
+Regular Singer: 7000000 VND
+Famous Singer: 21400000 VND
+
+Highest-paid singer:
+Name: Famous Singer
+Years of experience: 5
+Albums sold: 2000
+Performances: 20
+Game shows: 3
+Salary: 21400000 VND

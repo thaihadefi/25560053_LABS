@@ -1,0 +1,15 @@
+Enter number of students: 
+Student 1
+Type (1-College, 2-University): Student ID: Full name: Address: Total credits: GPA: Graduation exam score: 
+Student 2
+Type (1-College, 2-University): Student ID: Full name: Address: Total credits: GPA: Thesis title: Thesis score: 
+Eligible students: 1
+
+University student with highest GPA:
+ID: U01
+Name: Tran Thi Binh
+Address: HN
+Credits: 165
+GPA: 8.0
+Thesis: AI Chatbot
+Thesis score: 9.0

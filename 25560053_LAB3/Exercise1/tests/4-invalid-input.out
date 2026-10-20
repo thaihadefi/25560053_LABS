@@ -1,0 +1,11 @@
+Enter number of students: Invalid input, please try again.
+Enter number of students: 
+Student 1
+Type (1-College, 2-University): Invalid input, please try again.
+Type (1-College, 2-University): Student ID: Full name: This field cannot be empty!
+Full name: Address: Total credits: Invalid input, please try again.
+Total credits: GPA: Invalid input, please try again.
+GPA: Graduation exam score: Invalid input, please try again.
+Graduation exam score: 
+Eligible students: 1
+No university student found.

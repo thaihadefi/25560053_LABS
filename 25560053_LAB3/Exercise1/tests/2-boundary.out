@@ -1,0 +1,21 @@
+Enter number of students: 
+Student 1
+Type (1-College, 2-University): Student ID: Full name: Address: Total credits: GPA: Graduation exam score: 
+Student 2
+Type (1-College, 2-University): Student ID: Full name: Address: Total credits: GPA: Graduation exam score: 
+Student 3
+Type (1-College, 2-University): Student ID: Full name: Address: Total credits: GPA: Thesis title: Thesis score: 
+Student 4
+Type (1-College, 2-University): Student ID: Full name: Address: Total credits: GPA: Thesis title: Thesis score: 
+Student 5
+Type (1-College, 2-University): Student ID: Full name: Address: Total credits: GPA: Thesis title: Thesis score: 
+Eligible students: 2
+
+University student with highest GPA:
+ID: U3
+Name: Uni Top GPA
+Address: HN
+Credits: 100
+GPA: 9.0
+Thesis: Thesis C
+Thesis score: 9.0
