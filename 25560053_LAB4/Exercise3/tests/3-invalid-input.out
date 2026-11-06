@@ -1,0 +1,28 @@
+
+1. Add orders  2. Display all  3. Search by order ID  4. Statistics  5. Orders above a fee  0. Exit
+Choice: Enter number of orders: 
+Order 1
+Type (1-Standard, 2-Express): Order ID: Customer name: Distance (km): Invalid input, please try again.
+Distance (km): Invalid input, please try again.
+Distance (km): Invalid input, please try again.
+Distance (km): Invalid input, please try again.
+Distance (km): Weight (kg): Invalid input, please try again.
+Weight (kg): Invalid input, please try again.
+Weight (kg): 
+Order 2
+Type (1-Standard, 2-Express): Order ID: Order ID already exists!
+Order ID: Customer name: Distance (km): Weight (kg): 
+1. Add orders  2. Display all  3. Search by order ID  4. Statistics  5. Orders above a fee  0. Exit
+Choice: Fee threshold (VND): Invalid input, please try again.
+Fee threshold (VND): Invalid input, please try again.
+Fee threshold (VND): No order exceeds this fee.
+
+1. Add orders  2. Display all  3. Search by order ID  4. Statistics  5. Orders above a fee  0. Exit
+Choice: Standard orders: 1
+Express orders: 1
+Total shipping revenue: 137,000.00 VND
+Delivery objects created: 2
+(static: one counter shared by the Delivery class, not a copy in each object)
+
+1. Add orders  2. Display all  3. Search by order ID  4. Statistics  5. Orders above a fee  0. Exit
+Choice: 

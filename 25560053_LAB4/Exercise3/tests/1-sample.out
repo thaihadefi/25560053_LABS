@@ -1,0 +1,55 @@
+
+1. Add orders  2. Display all  3. Search by order ID  4. Statistics  5. Orders above a fee  0. Exit
+Choice: Enter number of orders: 
+Order 1
+Type (1-Standard, 2-Express): Order ID: Customer name: Distance (km): Weight (kg): 
+Order 2
+Type (1-Standard, 2-Express): Order ID: Customer name: Distance (km): Weight (kg): 
+1. Add orders  2. Display all  3. Search by order ID  4. Statistics  5. Orders above a fee  0. Exit
+Choice: 
+Type: Standard
+Order ID: D01
+Customer: Nguyen Van An
+Distance: 10.0 km
+Weight: 2.0 kg
+Shipping fee: 49,000.00 VND
+
+Type: Express
+Order ID: D02
+Customer: Tran Thi Binh
+Distance: 10.0 km
+Weight: 2.0 kg
+Shipping fee: 88,000.00 VND
+
+1. Add orders  2. Display all  3. Search by order ID  4. Statistics  5. Orders above a fee  0. Exit
+Choice: Order ID: Type: Express
+Order ID: D02
+Customer: Tran Thi Binh
+Distance: 10.0 km
+Weight: 2.0 kg
+Shipping fee: 88,000.00 VND
+
+1. Add orders  2. Display all  3. Search by order ID  4. Statistics  5. Orders above a fee  0. Exit
+Choice: Order ID: Order not found.
+
+1. Add orders  2. Display all  3. Search by order ID  4. Statistics  5. Orders above a fee  0. Exit
+Choice: Standard orders: 1
+Express orders: 1
+Total shipping revenue: 137,000.00 VND
+Delivery objects created: 2
+(static: one counter shared by the Delivery class, not a copy in each object)
+
+1. Add orders  2. Display all  3. Search by order ID  4. Statistics  5. Orders above a fee  0. Exit
+Choice: Fee threshold (VND): 
+Type: Express
+Order ID: D02
+Customer: Tran Thi Binh
+Distance: 10.0 km
+Weight: 2.0 kg
+Shipping fee: 88,000.00 VND
+
+1. Add orders  2. Display all  3. Search by order ID  4. Statistics  5. Orders above a fee  0. Exit
+Choice: Fee threshold (VND): No order exceeds this fee.
+
+1. Add orders  2. Display all  3. Search by order ID  4. Statistics  5. Orders above a fee  0. Exit
+Choice: 

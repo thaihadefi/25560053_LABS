@@ -1,0 +1,44 @@
+
+1. Add employees  2. Display payroll  3. Find by ID  4. Find by name and department  5. Find by department  6. Statistics  0. Exit
+Choice: The list is empty.
+
+1. Add employees  2. Display payroll  3. Find by ID  4. Find by name and department  5. Find by department  6. Statistics  0. Exit
+Choice: The list is empty.
+
+1. Add employees  2. Display payroll  3. Find by ID  4. Find by name and department  5. Find by department  6. Statistics  0. Exit
+Choice: The list is empty.
+
+1. Add employees  2. Display payroll  3. Find by ID  4. Find by name and department  5. Find by department  6. Statistics  0. Exit
+Choice: Enter number of employees: 
+Employee 1
+Type (1-Full-time, 2-Part-time): Employee ID: Full name: Department: Base salary: Allowance: Workdays: 
+Employee 2
+Type (1-Full-time, 2-Part-time): Employee ID: Full name: Department: Base salary: Allowance: Workdays: 
+Employee 3
+Type (1-Full-time, 2-Part-time): Employee ID: Full name: Department: Base salary: Allowance: Workdays: 
+Employee 4
+Type (1-Full-time, 2-Part-time): Employee ID: Full name: Department: Hours worked: Hourly rate: 
+1. Add employees  2. Display payroll  3. Find by ID  4. Find by name and department  5. Find by department  6. Statistics  0. Exit
+Choice: Employee ID: Employee not found.
+
+1. Add employees  2. Display payroll  3. Find by ID  4. Find by name and department  5. Find by department  6. Statistics  0. Exit
+Choice: Full name: Department: Employee not found.
+
+1. Add employees  2. Display payroll  3. Find by ID  4. Find by name and department  5. Find by department  6. Statistics  0. Exit
+Choice: Department: No employee in this department.
+
+1. Add employees  2. Display payroll  3. Find by ID  4. Find by name and department  5. Find by department  6. Statistics  0. Exit
+Choice: Total payroll: 17,600,000.00 VND
+
+Employee with the highest salary:
+Type: Full-time
+ID: E02
+Name: Over Days
+Department: IT
+Base salary: 10,400,000.00 VND
+Allowance: 1,000,000.00 VND
+Workdays: 31
+Salary: 11,400,000.00 VND
+
+1. Add employees  2. Display payroll  3. Find by ID  4. Find by name and department  5. Find by department  6. Statistics  0. Exit
+Choice: 

@@ -1,0 +1,52 @@
+
+1. Add courses  2. Display all  3. Search by code  4. Statistics  0. Exit
+Choice: The list is empty.
+
+1. Add courses  2. Display all  3. Search by code  4. Statistics  0. Exit
+Choice: The list is empty.
+
+1. Add courses  2. Display all  3. Search by code  4. Statistics  0. Exit
+Choice: The list is empty.
+
+1. Add courses  2. Display all  3. Search by code  4. Statistics  0. Exit
+Choice: Enter number of courses: 
+Course 1
+Type (1-Theory, 2-Laboratory): Course code: Course name: Credits: Registered students: 
+Course 2
+Type (1-Theory, 2-Laboratory): Course code: Course name: Credits: Registered students: Equipment fee: 
+1. Add courses  2. Display all  3. Search by code  4. Statistics  0. Exit
+Choice: Theory courses: 1
+Laboratory courses: 1
+Total expected collection: 0.00 VND
+Average tuition per student: N/A
+
+Course with the largest expected collection:
+Type: Theory
+Course code: IT001
+Course name: No Students
+Credits: 3
+Registered students: 0
+Tuition per student: 1,350,000.00 VND
+Expected collection: 0.00 VND
+
+1. Add courses  2. Display all  3. Search by code  4. Statistics  0. Exit
+Choice: Enter number of courses: 
+Course 1
+Type (1-Theory, 2-Laboratory): Course code: Course name: Credits: Registered students: 
+1. Add courses  2. Display all  3. Search by code  4. Statistics  0. Exit
+Choice: Theory courses: 2
+Laboratory courses: 1
+Total expected collection: 450,000.00 VND
+Average tuition per student: 450,000.00 VND/student
+
+Course with the largest expected collection:
+Type: Theory
+Course code: IT003
+Course name: One Student
+Credits: 1
+Registered students: 1
+Tuition per student: 450,000.00 VND
+Expected collection: 450,000.00 VND
+
+1. Add courses  2. Display all  3. Search by code  4. Statistics  0. Exit
+Choice: 

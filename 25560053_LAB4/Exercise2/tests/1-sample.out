@@ -1,0 +1,70 @@
+
+1. Add employees  2. Display payroll  3. Find by ID  4. Find by name and department  5. Find by department  6. Statistics  0. Exit
+Choice: Enter number of employees: 
+Employee 1
+Type (1-Full-time, 2-Part-time): Employee ID: Full name: Department: Base salary: Allowance: Workdays: 
+Employee 2
+Type (1-Full-time, 2-Part-time): Employee ID: Full name: Department: Hours worked: Hourly rate: 
+1. Add employees  2. Display payroll  3. Find by ID  4. Find by name and department  5. Find by department  6. Statistics  0. Exit
+Choice: 
+Type: Full-time
+ID: E01
+Name: Nguyen Van An
+Department: IT
+Base salary: 10,400,000.00 VND
+Allowance: 1,000,000.00 VND
+Workdays: 26
+Salary: 11,400,000.00 VND
+
+Type: Part-time
+ID: E02
+Name: Tran Thi Binh
+Department: Sales
+Hours worked: 40.0
+Hourly rate: 50,000.00 VND
+Salary: 2,000,000.00 VND
+
+1. Add employees  2. Display payroll  3. Find by ID  4. Find by name and department  5. Find by department  6. Statistics  0. Exit
+Choice: Employee ID: Type: Part-time
+ID: E02
+Name: Tran Thi Binh
+Department: Sales
+Hours worked: 40.0
+Hourly rate: 50,000.00 VND
+Salary: 2,000,000.00 VND
+
+1. Add employees  2. Display payroll  3. Find by ID  4. Find by name and department  5. Find by department  6. Statistics  0. Exit
+Choice: Full name: Department: Type: Full-time
+ID: E01
+Name: Nguyen Van An
+Department: IT
+Base salary: 10,400,000.00 VND
+Allowance: 1,000,000.00 VND
+Workdays: 26
+Salary: 11,400,000.00 VND
+
+1. Add employees  2. Display payroll  3. Find by ID  4. Find by name and department  5. Find by department  6. Statistics  0. Exit
+Choice: Department: 
+Type: Part-time
+ID: E02
+Name: Tran Thi Binh
+Department: Sales
+Hours worked: 40.0
+Hourly rate: 50,000.00 VND
+Salary: 2,000,000.00 VND
+
+1. Add employees  2. Display payroll  3. Find by ID  4. Find by name and department  5. Find by department  6. Statistics  0. Exit
+Choice: Total payroll: 13,400,000.00 VND
+
+Employee with the highest salary:
+Type: Full-time
+ID: E01
+Name: Nguyen Van An
+Department: IT
+Base salary: 10,400,000.00 VND
+Allowance: 1,000,000.00 VND
+Workdays: 26
+Salary: 11,400,000.00 VND
+
+1. Add employees  2. Display payroll  3. Find by ID  4. Find by name and department  5. Find by department  6. Statistics  0. Exit
+Choice: 

@@ -1,0 +1,38 @@
+
+1. Add employees  2. Display payroll  3. Find by ID  4. Find by name and department  5. Find by department  6. Statistics  0. Exit
+Choice: Invalid input, please try again.
+Choice: Enter number of employees: 
+Employee 1
+Type (1-Full-time, 2-Part-time): Employee ID: Full name: Department: Base salary: Invalid input, please try again.
+Base salary: Allowance: Invalid input, please try again.
+Allowance: Workdays: Invalid input, please try again.
+Workdays: Invalid input, please try again.
+Workdays: 
+1. Add employees  2. Display payroll  3. Find by ID  4. Find by name and department  5. Find by department  6. Statistics  0. Exit
+Choice: Enter number of employees: 
+Employee 1
+Type (1-Full-time, 2-Part-time): Employee ID: Employee ID already exists!
+Employee ID: Full name: Department: Hours worked: Invalid input, please try again.
+Hours worked: Hourly rate: Invalid input, please try again.
+Hourly rate: 
+1. Add employees  2. Display payroll  3. Find by ID  4. Find by name and department  5. Find by department  6. Statistics  0. Exit
+Choice: 
+Type: Full-time
+ID: E01
+Name: Nguyen Van An
+Department: IT
+Base salary: 10,400,000.00 VND
+Allowance: 1,000,000.00 VND
+Workdays: 26
+Salary: 11,400,000.00 VND
+
+Type: Part-time
+ID: E02
+Name: Tran Thi Binh
+Department: Sales
+Hours worked: 40.0
+Hourly rate: 50,000.00 VND
+Salary: 2,000,000.00 VND
+
+1. Add employees  2. Display payroll  3. Find by ID  4. Find by name and department  5. Find by department  6. Statistics  0. Exit
+Choice: 

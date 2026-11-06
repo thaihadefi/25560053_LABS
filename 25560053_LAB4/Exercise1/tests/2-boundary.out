@@ -1,0 +1,32 @@
+
+1. Add items  2. Display all  3. Search by ID  4. Statistics  0. Exit
+Choice: The list is empty.
+
+1. Add items  2. Display all  3. Search by ID  4. Statistics  0. Exit
+Choice: The list is empty.
+
+1. Add items  2. Display all  3. Search by ID  4. Statistics  0. Exit
+Choice: The list is empty.
+
+1. Add items  2. Display all  3. Search by ID  4. Statistics  0. Exit
+Choice: Enter number of items: 
+Item 1
+Type (1-Printed book, 2-Magazine): Item ID: Title: Author: Days borrowed: Pages: 
+Item 2
+Type (1-Printed book, 2-Magazine): Item ID: Title: Author: Days borrowed: Issue number: 
+1. Add items  2. Display all  3. Search by ID  4. Statistics  0. Exit
+Choice: Printed books: 1
+Magazines: 1
+Total revenue: 10,010 VND
+
+Item with the highest fee:
+Type: Printed book
+ID: B01
+Title: Min Book
+Author: A
+Days borrowed: 1
+Pages: 1
+Fee: 5,010 VND
+
+1. Add items  2. Display all  3. Search by ID  4. Statistics  0. Exit
+Choice: 
