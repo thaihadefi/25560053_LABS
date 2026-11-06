@@ -1,0 +1,107 @@
+
+=== Payroll Management ===
+1. Add employees
+2. Display payroll
+3. Find by ID
+4. Find by name and department
+5. Find by department
+6. Statistics
+0. Exit
+Choice: The list is empty.
+
+=== Payroll Management ===
+1. Add employees
+2. Display payroll
+3. Find by ID
+4. Find by name and department
+5. Find by department
+6. Statistics
+0. Exit
+Choice: The list is empty.
+
+=== Payroll Management ===
+1. Add employees
+2. Display payroll
+3. Find by ID
+4. Find by name and department
+5. Find by department
+6. Statistics
+0. Exit
+Choice: The list is empty.
+
+=== Payroll Management ===
+1. Add employees
+2. Display payroll
+3. Find by ID
+4. Find by name and department
+5. Find by department
+6. Statistics
+0. Exit
+Choice: Enter number of employees: 
+Employee 1
+Type (1-Full-Time, 2-Part-Time): Employee ID: Full name: Department: Base salary: Allowance: Workdays (0-31): 
+Employee 2
+Type (1-Full-Time, 2-Part-Time): Employee ID: Full name: Department: Base salary: Allowance: Workdays (0-31): 
+Employee 3
+Type (1-Full-Time, 2-Part-Time): Employee ID: Full name: Department: Base salary: Allowance: Workdays (0-31): 
+Employee 4
+Type (1-Full-Time, 2-Part-Time): Employee ID: Full name: Department: Hours worked: Hourly rate: 
+=== Payroll Management ===
+1. Add employees
+2. Display payroll
+3. Find by ID
+4. Find by name and department
+5. Find by department
+6. Statistics
+0. Exit
+Choice: Employee ID: Not found.
+
+=== Payroll Management ===
+1. Add employees
+2. Display payroll
+3. Find by ID
+4. Find by name and department
+5. Find by department
+6. Statistics
+0. Exit
+Choice: Full name: Department: Not found.
+
+=== Payroll Management ===
+1. Add employees
+2. Display payroll
+3. Find by ID
+4. Find by name and department
+5. Find by department
+6. Statistics
+0. Exit
+Choice: Department: Not found.
+
+=== Payroll Management ===
+1. Add employees
+2. Display payroll
+3. Find by ID
+4. Find by name and department
+5. Find by department
+6. Statistics
+0. Exit
+Choice: Total payroll: 17,600,000.00 VND
+
+Highest salary:
+Employee ID: E02
+Type: Full-Time
+Full Name: Over Days
+Department: IT
+Base Salary: 10,400,000.00 VND
+Allowance: 1,000,000.00 VND
+Workdays: 31
+Salary: 11,400,000.00 VND
+
+=== Payroll Management ===
+1. Add employees
+2. Display payroll
+3. Find by ID
+4. Find by name and department
+5. Find by department
+6. Statistics
+0. Exit
+Choice: 

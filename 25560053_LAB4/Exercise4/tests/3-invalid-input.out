@@ -1,0 +1,62 @@
+
+=== Cinema Ticket Sales ===
+1. Add purchases
+2. Display all
+3. Find by movie title
+4. Statistics
+5. Sort by final total (highest first)
+0. Exit
+Choice: Invalid input, please try again.
+Choice: Enter number of purchases: 
+Purchase 1
+Type (1-Regular, 2-VIP): Invalid input, please try again.
+Type (1-Regular, 2-VIP): Ticket ID: Movie title: Quantity: Invalid input, please try again.
+Quantity: Invalid input, please try again.
+Quantity: Invalid input, please try again.
+Quantity: 
+Purchase 2
+Type (1-Regular, 2-VIP): Ticket ID: ID already exists!
+Ticket ID: Movie title: This field cannot be empty!
+Movie title: Quantity: 
+=== Cinema Ticket Sales ===
+1. Add purchases
+2. Display all
+3. Find by movie title
+4. Statistics
+5. Sort by final total (highest first)
+0. Exit
+Choice: 
+Ticket ID: T01
+Type: Regular
+Movie Title: Avatar
+Quantity: 5
+Unit Price: 80,000.00 VND
+Discount: 40,000.00 VND
+Final total: 360,000.00 VND
+
+Ticket ID: T02
+Type: VIP
+Movie Title: Avatar
+Quantity: 3
+Unit Price: 150,000.00 VND
+Discount: 67,500.00 VND
+Final total: 382,500.00 VND
+
+=== Cinema Ticket Sales ===
+1. Add purchases
+2. Display all
+3. Find by movie title
+4. Statistics
+5. Sort by final total (highest first)
+0. Exit
+Choice: Total revenue: 742,500.00 VND
+Top movie: Avatar (742,500.00 VND)
+
+=== Cinema Ticket Sales ===
+1. Add purchases
+2. Display all
+3. Find by movie title
+4. Statistics
+5. Sort by final total (highest first)
+0. Exit
+Choice: 

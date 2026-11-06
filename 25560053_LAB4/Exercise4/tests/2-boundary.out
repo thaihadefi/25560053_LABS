@@ -1,0 +1,169 @@
+
+=== Cinema Ticket Sales ===
+1. Add purchases
+2. Display all
+3. Find by movie title
+4. Statistics
+5. Sort by final total (highest first)
+0. Exit
+Choice: The list is empty.
+
+=== Cinema Ticket Sales ===
+1. Add purchases
+2. Display all
+3. Find by movie title
+4. Statistics
+5. Sort by final total (highest first)
+0. Exit
+Choice: The list is empty.
+
+=== Cinema Ticket Sales ===
+1. Add purchases
+2. Display all
+3. Find by movie title
+4. Statistics
+5. Sort by final total (highest first)
+0. Exit
+Choice: The list is empty.
+
+=== Cinema Ticket Sales ===
+1. Add purchases
+2. Display all
+3. Find by movie title
+4. Statistics
+5. Sort by final total (highest first)
+0. Exit
+Choice: The list is empty.
+
+=== Cinema Ticket Sales ===
+1. Add purchases
+2. Display all
+3. Find by movie title
+4. Statistics
+5. Sort by final total (highest first)
+0. Exit
+Choice: Enter number of purchases: 
+Purchase 1
+Type (1-Regular, 2-VIP): Ticket ID: Movie title: Quantity: 
+Purchase 2
+Type (1-Regular, 2-VIP): Ticket ID: Movie title: Quantity: 
+Purchase 3
+Type (1-Regular, 2-VIP): Ticket ID: Movie title: Quantity: 
+Purchase 4
+Type (1-Regular, 2-VIP): Ticket ID: Movie title: Quantity: 
+Purchase 5
+Type (1-Regular, 2-VIP): Ticket ID: Movie title: Quantity: 
+=== Cinema Ticket Sales ===
+1. Add purchases
+2. Display all
+3. Find by movie title
+4. Statistics
+5. Sort by final total (highest first)
+0. Exit
+Choice: 
+Ticket ID: T1
+Type: Regular
+Movie Title: Movie A
+Quantity: 4
+Unit Price: 80,000.00 VND
+Discount: 0.00 VND
+Final total: 320,000.00 VND
+
+Ticket ID: T2
+Type: Regular
+Movie Title: Movie A
+Quantity: 5
+Unit Price: 80,000.00 VND
+Discount: 40,000.00 VND
+Final total: 360,000.00 VND
+
+Ticket ID: T3
+Type: VIP
+Movie Title: Movie B
+Quantity: 2
+Unit Price: 150,000.00 VND
+Discount: 0.00 VND
+Final total: 300,000.00 VND
+
+Ticket ID: T4
+Type: VIP
+Movie Title: movie a
+Quantity: 1
+Unit Price: 150,000.00 VND
+Discount: 0.00 VND
+Final total: 150,000.00 VND
+
+Ticket ID: T5
+Type: VIP
+Movie Title: Movie C
+Quantity: 3
+Unit Price: 150,000.00 VND
+Discount: 67,500.00 VND
+Final total: 382,500.00 VND
+
+=== Cinema Ticket Sales ===
+1. Add purchases
+2. Display all
+3. Find by movie title
+4. Statistics
+5. Sort by final total (highest first)
+0. Exit
+Choice: 
+Ticket ID: T5
+Type: VIP
+Movie Title: Movie C
+Quantity: 3
+Unit Price: 150,000.00 VND
+Discount: 67,500.00 VND
+Final total: 382,500.00 VND
+
+Ticket ID: T2
+Type: Regular
+Movie Title: Movie A
+Quantity: 5
+Unit Price: 80,000.00 VND
+Discount: 40,000.00 VND
+Final total: 360,000.00 VND
+
+Ticket ID: T1
+Type: Regular
+Movie Title: Movie A
+Quantity: 4
+Unit Price: 80,000.00 VND
+Discount: 0.00 VND
+Final total: 320,000.00 VND
+
+Ticket ID: T3
+Type: VIP
+Movie Title: Movie B
+Quantity: 2
+Unit Price: 150,000.00 VND
+Discount: 0.00 VND
+Final total: 300,000.00 VND
+
+Ticket ID: T4
+Type: VIP
+Movie Title: movie a
+Quantity: 1
+Unit Price: 150,000.00 VND
+Discount: 0.00 VND
+Final total: 150,000.00 VND
+
+=== Cinema Ticket Sales ===
+1. Add purchases
+2. Display all
+3. Find by movie title
+4. Statistics
+5. Sort by final total (highest first)
+0. Exit
+Choice: Total revenue: 1,512,500.00 VND
+Top movie: Movie A (830,000.00 VND)
+
+=== Cinema Ticket Sales ===
+1. Add purchases
+2. Display all
+3. Find by movie title
+4. Statistics
+5. Sort by final total (highest first)
+0. Exit
+Choice: 

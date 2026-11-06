@@ -1,0 +1,66 @@
+
+=== Payroll Management ===
+1. Add employees
+2. Display payroll
+3. Find by ID
+4. Find by name and department
+5. Find by department
+6. Statistics
+0. Exit
+Choice: Invalid input, please try again.
+Choice: Enter number of employees: 
+Employee 1
+Type (1-Full-Time, 2-Part-Time): Employee ID: Full name: Department: Base salary: Invalid input, please try again.
+Base salary: Allowance: Invalid input, please try again.
+Allowance: Workdays (0-31): Invalid input, please try again.
+Workdays (0-31): Invalid input, please try again.
+Workdays (0-31): 
+=== Payroll Management ===
+1. Add employees
+2. Display payroll
+3. Find by ID
+4. Find by name and department
+5. Find by department
+6. Statistics
+0. Exit
+Choice: Enter number of employees: 
+Employee 1
+Type (1-Full-Time, 2-Part-Time): Employee ID: ID already exists!
+Employee ID: Full name: Department: Hours worked: Invalid input, please try again.
+Hours worked: Hourly rate: Invalid input, please try again.
+Hourly rate: 
+=== Payroll Management ===
+1. Add employees
+2. Display payroll
+3. Find by ID
+4. Find by name and department
+5. Find by department
+6. Statistics
+0. Exit
+Choice: 
+Employee ID: E01
+Type: Full-Time
+Full Name: Nguyen Van An
+Department: IT
+Base Salary: 10,400,000.00 VND
+Allowance: 1,000,000.00 VND
+Workdays: 26
+Salary: 11,400,000.00 VND
+
+Employee ID: E02
+Type: Part-Time
+Full Name: Tran Thi Binh
+Department: Sales
+Hours Worked: 40.0
+Hourly Rate: 50,000.00 VND
+Salary: 2,000,000.00 VND
+
+=== Payroll Management ===
+1. Add employees
+2. Display payroll
+3. Find by ID
+4. Find by name and department
+5. Find by department
+6. Statistics
+0. Exit
+Choice: 
